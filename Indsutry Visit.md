@@ -1,6 +1,6 @@
 <style>
   p{
-    text-align: centre;
+    text-align: center;
   }
 </style>
 
